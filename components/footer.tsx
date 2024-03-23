@@ -8,7 +8,7 @@ export default function Footer() {
       <small className="mb-2 block text-xs">
         &copy; 2024 Vrushali. All rights reserved.
       </small>
-      <p className="mb-10 px-4 text-center text-gray-500">
+      <div className="mb-10 px-4 text-center text-gray-500">
   <div className="flex justify-center items-center space-x-4">
     <a
       href="https://www.instagram.com/vrushalipatil_01/?next=%2F"
@@ -27,7 +27,7 @@ export default function Footer() {
       <CiFacebook className="inline-block"/> {/* Apply inline-block if needed */}
     </a>
   </div>
-</p>
+</div>
 
 
     </footer>

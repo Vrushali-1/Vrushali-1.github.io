@@ -2,9 +2,10 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import corpcommentImg from "@/public/corpcomment.png";
-import rmtdevImg from "@/public/rmtdev.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
+import doctor from "@/public/doctor2.png";
+import flight from "@/public/flight.png"
+import food from "@/public/online-food-ordering.jpg";
+
 
 export const links = [
   {
@@ -89,25 +90,28 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "Food Ordering System",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
-    imageUrl: corpcommentImg,
+      "Crafted a food ordering system's backend with database capabilities. The system simplifies order placements, cart management, restaurant recommendations and advanced search options.",
+    tags: ["SQL","PL/SQL"],
+    imageUrl: food,
+    url: 'https://github.com/Vrushali-1/Online-Food-Ordering-System'
   },
   {
-    title: "rmtDev",
+    title: "Disease Prediction System",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
-    imageUrl: rmtdevImg,
+      "This project is a health-focused predictive system that analyzes symptoms input by users to forecast the top 10 diseases they might be at risk for.",
+    tags: ["Python","Pandas","Matplotlip"],
+    imageUrl: doctor,
+    url: 'https://github.com/Vrushali-1/Disease-Prediction'
   },
   {
-    title: "Word Analytics",
+    title: "Flight Booking System",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
+      "This system offers a quick way to compare and book flights, making travel planning straightforward and efficient for users.",
+    tags: ["React", "MongoDB", "Node.js"],
+    imageUrl: flight,
+    url: 'https://youtu.be/ZWwJabOimro',
   },
 ] as const;
 
