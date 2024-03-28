@@ -63,7 +63,7 @@ export const experiencesData = [
       "Participated in stress testing, quality assurance, and both integration and unit testing, leading to improved system response times.",
       "Took responsibility for reporting, monitoring, and resolving software bugs while mentoring colleagues new to full-stack technologies."
     ],
-    icon: React.createElement(FaReact),
+    icon: React.createElement(CgWorkAlt),
     date: "Sept 2020 - Sept 2021",
   },
   {
@@ -74,7 +74,7 @@ export const experiencesData = [
       "Led a team project to make the database design better, which used less memory.",
       "Upgraded the user interface by utilizing tools like PrimeNG and PrimeReact, boosting the system's visual appeal.",
     ],
-    icon: React.createElement(FaReact),
+    icon: React.createElement(CgWorkAlt),
     date: "Jan 2020 - May 2020",
   },
   {
