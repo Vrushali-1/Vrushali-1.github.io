@@ -47,9 +47,10 @@ export const experiencesData = [
     title: "Senior Software Engineer",
     location: "Pune, MH, India",
     description:[
-      "Functioned as a full-stack developer for Smart UI Builder, enhancing development efficiency through features like automated code generation for React and Angular projects, and introducing web components with previews of UI elements.",
-      "Led the Smart Recruit project team, focusing on planning sprints, understanding client needs, choosing appropriate technological solutions, overseeing code reviews, and ensuring progress towards sprint goals.",
-      "Collaborated closely with the client Wabtec on the Precision Dispatch System (PDS 2.0), focusing on assembling UI screens based on UX designs and performing API integration."
+      "Developed Smart UI Builder from the ground up, delivering the first operational version.",
+      "Implemented automated code generation for React and Angular projects, incorporating over 500 web components, which enhanced product refinement by 5%.",
+      "For five months, led a team of 10 in the Smart Recruit project, managing sprints, assessing client requirements, conducting code reviews, debugging, organizing scrum calls, and promoting agile practices, resulting in the successful release of 50 features.",
+      "Assembled nearly twenty UI screens based on UX designs and performed API integration for the Precision Dispatch System (PDS 2.0), in collaboration with the client Wabtec, contributing to various stages of the software development life cycle."
     ],
     icon: React.createElement(CgWorkAlt),
     date: "Oct 2021 - Jul 2022",
@@ -58,10 +59,12 @@ export const experiencesData = [
     title: "Software Engineer",
     location: "Pune, MH, India",
     description:[
-      "Incorporated the Karma, Mocha testing framework and wrote test cases, improving code coverage and quality.",
-      "Generated features such as scheduling interviews, filling feedback forms, generating reports based on analysis, and scoring resumes, thereby enhancing operational efficiency. Contributed in feature documentation.",
-      "Participated in stress testing, quality assurance, and both integration and unit testing, leading to improved system response times.",
-      "Took responsibility for reporting, monitoring, and resolving software bugs while mentoring colleagues new to full-stack technologies."
+      "Added test cases using tools like Karma, JUnit, and Mocha, making our software 70% more reliable.",
+      "Created new features for organizing interviews, giving feedback, analyzing reports, and checking resumes, making the work 20% faster.",
+      "Performed feature documentation for 20-30 features.",
+      "Ran special checks to make sure everything works smoothly, making the software respond 12% faster.",
+      "Fixed about 20 bugs in the software, helping it run better.",
+      "Mentored two new colleagues in full-stack technologies, supporting their professional growth."
     ],
     icon: React.createElement(CgWorkAlt),
     date: "Sept 2020 - Sept 2021",
@@ -70,9 +73,10 @@ export const experiencesData = [
     title: "Software Development Intern",
     location: "Pune, MH, India",
     description:[
-      "Developed a Flight Booking System using MEAN and MERN stacks, enhancing user engagement with innovative UI designs.",
-      "Led a team project to make the database design better, which used less memory.",
-      "Upgraded the user interface by utilizing tools like PrimeNG and PrimeReact, boosting the system's visual appeal.",
+      "Created a flight booking website, adding online payments and attracting 100 new users.",
+      "Developed 5 parts for a university app, increasing daily applications.",
+      "Made 6 web pages look better, enhancing user experience.",
+      "Helped reduce database memory use by 15% with the team."
     ],
     icon: React.createElement(CgWorkAlt),
     date: "Jan 2020 - May 2020",
