@@ -36,6 +36,18 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "Software Engineer",
+    location: "Austin, TX, US",
+    description:[
+      "Implemented AdvancedMapMarkers for consistent rendering across zoom levels and improved marker accuracy by 20m, reducing user errors.",
+      "Added ACL-based compliance filters, enabling teams to track deadlines, generate reports, and monitor 200 projects for stakeholder presentations.",
+      "Implemented masquerading to fix permission issues, updated role checks, ensured real-time updates, and cut support tickets by 30% in two months.",
+      "Used Highcharts to visualize wind and solar plant performance, improving operational insights and decision-making."
+    ],
+    icon: React.createElement(CgWorkAlt),
+    date: "Jul 2024 - Present",
+  },
+  {
     title: "MS - Information Systems",
     location: "University of Maryland Baltimore County, US",
     description:
